@@ -11,7 +11,3 @@
 
 # PowerPoint temporary
 ~$*.ppt*
-
-
-_site
-.jekyll-metadata
